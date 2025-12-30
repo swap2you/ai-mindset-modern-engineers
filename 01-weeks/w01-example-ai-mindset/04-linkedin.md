@@ -24,8 +24,14 @@ Week 1 of my AI Mindset series is live.
 
 ## Carousel outline
 Slide 1: AI Fear vs Reality  
-Slide 2: Why tools won’t save bad thinking  
+Slide 2: Why tools won't save bad thinking  
 Slide 3: AI as thinking amplifier  
 Slide 4: What engineers must still own  
 Slide 5: Calm clarity > hype  
 Slide 6: Week 1 resources (GitHub link)
+
+---
+
+## Assets
+LinkedIn visuals for this week:
+[../../04-assets/linkedin/week-01/](../../04-assets/linkedin/week-01/)
