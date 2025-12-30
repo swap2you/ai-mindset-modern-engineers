@@ -1,69 +1,41 @@
-# Week 01: AI Mindset for Modern Engineers
+# Week 01 — AI Mindset Reset: From Confusion to Clarity
 
-This week introduces the foundational mindset shift required for modern engineers working with AI-augmented tools and workflows.
+This module starts the 52-week **AI Mindset for Modern Engineers** series.
 
-## What This Week Covers
+This week is intentionally **non-technical**.
 
-- Understanding what "AI mindset" means for engineers
-- Shifting from code-first to problem-first thinking
-- Embracing AI tools as collaborators, not replacements
-- Building habits for effective AI-assisted development
-- Recognizing when AI helps and when it doesn't
-
-## How to Consume This Week
-
-1. **Start here**: Read this README to understand the week's focus
-2. **Core concepts**: Review `01-summary.md` for key takeaways
-3. **Practice**: Complete exercises in `02-exercises.md`
-4. **Hands-on**: Use prompts in `03-prompts-cursor.md` with Cursor
-5. **Additional context**: Check `04-linkedin.md` and `05-youtube.md` for social content
-
-## Files in This Week
-
-- [`01-summary.md`](./01-summary.md) - Core concepts and key takeaways
-- [`02-exercises.md`](./02-exercises.md) - Thinking exercises and practical tasks
-- [`03-prompts-cursor.md`](./03-prompts-cursor.md) - Cursor prompts for hands-on learning
-- [`04-linkedin.md`](./04-linkedin.md) - LinkedIn post content
-- [`05-youtube.md`](./05-youtube.md) - YouTube video description and notes
-- [`demo/`](./demo/) - Optional demo code (see demo README)
-
-## Key Takeaways
-
-After completing this week, you should understand:
-
-- The difference between traditional and AI-augmented engineering mindsets
-- How to frame problems for AI assistance
-- When to leverage AI tools and when to rely on traditional methods
-- The importance of maintaining critical thinking skills
-
-## Time Investment
-
-- Reading: 15-20 minutes
-- Exercises: 30-45 minutes
-- Cursor practice: 30-60 minutes (optional but recommended)
-- Total: 1-2 hours
-
-## Prerequisites
-
-- Basic familiarity with software development
-- Access to Cursor (or similar AI-assisted IDE)
-- Willingness to experiment and learn
-
-## Navigation
-
-**Back to**: [INDEX.md](../../02-index/INDEX.md) | [Root README](../../README.md)
-
-**Related concepts**: See [GLOSSARY.md](../../02-index/GLOSSARY.md) for definitions of key terms
-
-**Next week**: Coming soon (check [ROADMAP.md](../../ROADMAP.md) for updates)
+Before learning tools, prompts, or frameworks, engineers must fix how they **think** about AI.
+Without this reset, AI becomes either:
+- a fear amplifier, or
+- a productivity illusion
 
 ---
 
-## About This Week
+## Who this week is for
+- Engineers new to AI
+- QAs unsure how AI fits their role
+- Architects trying to separate signal from hype
+- Tech leads guiding teams through AI adoption
 
-This week serves as both:
-1. **Content**: Real learning material about AI mindset
-2. **Structure example**: A template showing how future weeks will be organized
+---
 
-Use this week to learn the concepts AND to understand how the repository is structured for future weeks.
+## What you will learn
+- Why AI is **not** a replacement narrative problem
+- How to reposition AI as a thinking amplifier
+- The difference between *tool usage* and *mindset leverage*
+- How to approach AI calmly and strategically
 
+---
+
+## How to use this module
+1. Read **01-summary.md**
+2. Complete **02-exercises.md** (writing is encouraged)
+3. Use **03-prompts-cursor.md** inside Cursor
+4. Review **05-youtube.md** while or after watching the video
+5. Optional: read **04-linkedin.md** for public articulation
+
+---
+
+## Navigation
+- 📚 [Back to Index](../../02-index/INDEX.md)
+- ▶️ [YouTube Anchor Content](05-youtube.md)
