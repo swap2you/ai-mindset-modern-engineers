@@ -13,7 +13,7 @@ This is the central navigation hub for all weekly learning modules. Use this ind
 
 | Week | Topic | Level | Artifacts | Link | Tags |
 |------|-------|-------|-----------|------|------|
-| 01 | AI Mindset for Modern Engineers | Beginner | Summary, Exercises, Prompts, LinkedIn, YouTube | [w01-example-ai-mindset](../01-weeks/w01-example-ai-mindset/) | `mindset`, `ai-basics`, `foundation` |
+| 01 | AI Mindset Reset | Beginner | Summary, Exercises, Prompts, Video | [Week 01](../01-weeks/w01-example-ai-mindset/) | #mindset #ai #foundations |
 | 02 | *Coming Soon* | - | - | - | - |
 | 03 | *Coming Soon* | - | - | - | - |
 | ... | *Additional weeks will be added here* | - | - | - | - |
